@@ -1,0 +1,59 @@
+
+
+
+.cd-btn {
+	border:1px solid #ff7807;
+}
+.no-touch .cd-btn:hover,
+.no-touch .cd-primary-nav a:hover,
+.title-text:after,
+.title-page:after,
+#owl-project-slider.owl-theme .owl-controls .owl-page.active span,
+#owl-project-slider.owl-theme .owl-controls.clickable .owl-page:hover span,
+#owl-home-slider.owl-theme .owl-controls .owl-page.active span,
+#owl-home-slider.owl-theme .owl-controls.clickable .owl-page:hover span,
+.list-social li:hover,
+.more-center:hover,
+.team-box-1 ul:before,
+.services-box-2:hover .icon,
+#ajax-form button:hover,
+#cd-zoom-in, #cd-zoom-out,
+.blog-pages-wrap-box  .blog-box-2 .link-text:hover,
+#owl-blog-slider-1.owl-theme .owl-controls .owl-page.active span,
+#owl-blog-slider-1.owl-theme .owl-controls.clickable .owl-page:hover span {
+	background-color: #ff7807;
+}
+.list-social-nav li:hover.icon-soc-nav a,
+#filter li .current,
+#filter li a:hover,
+.team-box-1 ul li a:hover,
+.blog-box-2 a:hover,
+.blog-pages-wrap-box  .blog-box-2 .subtext a:hover,
+.blog-pages-wrap-box  .blog-box-2 .link-to-post a:hover {
+	color: #ff7807;
+}
+#ajax-form textarea:focus,
+#ajax-form input:focus,
+#ajax-form textarea:active,
+#ajax-form input:active {	
+	border-bottom:1px solid #ff7807;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
